@@ -1,0 +1,28 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+
+# Audio & Subtitle temporary outputs
+*.wav
+*.mp3
+*.m4a
+*.mp4
+*.flac
+*.ogg
+*.webm
+*.srt
+transcript.txt
+timestamped.txt
+jax_cache/
+
+# OS files
+.DS_Store
+Thumbs.db
